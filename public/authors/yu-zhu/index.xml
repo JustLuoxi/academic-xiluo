@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yu Zhu | Xi Luo</title>
+    <link>/authors/yu-zhu/</link>
+      <atom:link href="/authors/yu-zhu/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yu Zhu</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Xi Luo&amp;copy2020</copyright><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yu Zhu</title>
+      <link>/authors/yu-zhu/</link>
+    </image>
+    
+    <item>
+      <title>Multiview Deformation for Dynamic Human Reconstruction</title>
+      <link>/publication/multiviewdeformation/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/multiviewdeformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Shared Augmented Virtual Environment for Realtime Mixed Reality Application</title>
+      <link>/publication/cavw_2018_save/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cavw_2018_save/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

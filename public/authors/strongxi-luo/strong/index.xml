@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>&lt;strong&gt;Xi Luo&lt;/strong&gt; | Xi Luo</title>
+    <link>/authors/strongxi-luo/strong/</link>
+      <atom:link href="/authors/strongxi-luo/strong/index.xml" rel="self" type="application/rss+xml" />
+    <description>&lt;strong&gt;Xi Luo&lt;/strong&gt;</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Xi Luo&amp;copy2020</copyright><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>&lt;strong&gt;Xi Luo&lt;/strong&gt;</title>
+      <link>/authors/strongxi-luo/strong/</link>
+    </image>
+    
+    <item>
+      <title>Multiview Deformation for Dynamic Human Reconstruction</title>
+      <link>/publication/multiviewdeformation/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/multiviewdeformation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CHANDS: A Challenging Hand Gesture Dataset</title>
+      <link>/publication/chands/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Fragmentation Guided Human Shape Reconstruction</title>
+      <link>/publication/access_2019_fragmentation/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/access_2019_fragmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoSweep: Recovering 3D Editable Objects from a Single Photograph</title>
+      <link>/publication/tvcg_2018_autosweep/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tvcg_2018_autosweep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iHDViewer: A Visualization Tool for Tracking HD</title>
+      <link>/publication/bigdata_2018_ihdviewer/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bigdata_2018_ihdviewer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Shared Augmented Virtual Environment for Realtime Mixed Reality Application</title>
+      <link>/publication/cavw_2018_save/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cavw_2018_save/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SweepCanvas: Sketch-based 3D Prototyping on an RGB-D Image</title>
+      <link>/publication/uist_2017_sweepcanvas/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/uist_2017_sweepcanvas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

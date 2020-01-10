@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>2 | Xi Luo</title>
+    <link>/publication_types/2/</link>
+      <atom:link href="/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
+    <description>2</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Xi Luo&amp;copy2020</copyright><lastBuildDate>Fri, 01 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>2</title>
+      <link>/publication_types/2/</link>
+    </image>
+    
+    <item>
+      <title>Fragmentation Guided Human Shape Reconstruction</title>
+      <link>/publication/access_2019_fragmentation/</link>
+      <pubDate>Fri, 01 Mar 2019 00:00:00 +0000</pubDate>
+      <guid>/publication/access_2019_fragmentation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>AutoSweep: Recovering 3D Editable Objects from a Single Photograph</title>
+      <link>/publication/tvcg_2018_autosweep/</link>
+      <pubDate>Sun, 01 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/tvcg_2018_autosweep/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Shared Augmented Virtual Environment for Realtime Mixed Reality Application</title>
+      <link>/publication/cavw_2018_save/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/cavw_2018_save/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

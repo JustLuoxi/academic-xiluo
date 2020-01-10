@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Xi Luo</title>
+    <link>/publication_types/1/</link>
+      <atom:link href="/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Xi Luo&amp;copy2020</copyright><lastBuildDate>Thu, 02 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>1</title>
+      <link>/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>CHANDS: A Challenging Hand Gesture Dataset</title>
+      <link>/publication/chands/</link>
+      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/chands/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iHDViewer: A Visualization Tool for Tracking HD</title>
+      <link>/publication/bigdata_2018_ihdviewer/</link>
+      <pubDate>Thu, 01 Feb 2018 00:00:00 +0000</pubDate>
+      <guid>/publication/bigdata_2018_ihdviewer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SweepCanvas: Sketch-based 3D Prototyping on an RGB-D Image</title>
+      <link>/publication/uist_2017_sweepcanvas/</link>
+      <pubDate>Sun, 01 Oct 2017 00:00:00 +0000</pubDate>
+      <guid>/publication/uist_2017_sweepcanvas/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
