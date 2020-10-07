@@ -68,4 +68,4 @@ user_groups:
 - Visitors
 ---
 
-Hello, I am a PhD Candiate in [School of Information Science and Technology](http://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/main.htm), China. I am supervised by [Prof. Jingyi Yu](http://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/), affiliated with [Virtual Reality and Visual Computing Center(VRVC)](http://vic.shanghaitech.edu.cn/vrvc/en/). Prior to that, I was supervised by [Prof. Youyi Zheng](http://youyizheng.net/) for two years, about computer graphics research. 
+Hi, I am a PhD Candidate in [School of Information Science and Technology](http://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/main.htm), China. I am supervised by [Prof. Jingyi Yu](http://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/), affiliated with [Virtual Reality and Visual Computing Center(VRVC)](http://vic.shanghaitech.edu.cn/vrvc/en/). Prior to that, I was supervised by [Prof. Youyi Zheng](http://youyizheng.net/) for two years, about computer graphics research. 
