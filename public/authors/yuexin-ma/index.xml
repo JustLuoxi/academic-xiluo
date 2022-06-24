@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Yuexin Ma | Xi Luo</title>
+    <link>/authors/yuexin-ma/</link>
+      <atom:link href="/authors/yuexin-ma/index.xml" rel="self" type="application/rss+xml" />
+    <description>Yuexin Ma</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Xi Luo&amp;copy2022</copyright><lastBuildDate>Sat, 04 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
+      <title>Yuexin Ma</title>
+      <link>/authors/yuexin-ma/</link>
+    </image>
+    
+    <item>
+      <title>INV: Implicit Neural Representation for Gigapixel Videos</title>
+      <link>/publication/inv/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/inv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuralGiga: Neural Giga-Image Representation with Anti-aliasing and Continuous Viewing</title>
+      <link>/publication/neuralgiga/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/neuralgiga/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

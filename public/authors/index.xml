@@ -5,7 +5,7 @@
     <link>/authors/</link>
       <atom:link href="/authors/index.xml" rel="self" type="application/rss+xml" />
     <description>Authors</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Xi Luo&amp;copy2020</copyright><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Xi Luo&amp;copy2022</copyright><lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>Authors</title>
@@ -15,7 +15,7 @@
     <item>
       <title>&lt;strong&gt;Xi Luo&lt;/strong&gt;</title>
       <link>/authors/strongxi-luo/strong/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/authors/strongxi-luo/strong/</guid>
       <description></description>
     </item>
@@ -23,8 +23,48 @@
     <item>
       <title>Jingyi Yu</title>
       <link>/authors/jingyi-yu/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
       <guid>/authors/jingyi-yu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wei Yang</title>
+      <link>/authors/wei-yang/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/wei-yang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuwei Li</title>
+      <link>/authors/yuwei-li/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/yuwei-li/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lan Xu</title>
+      <link>/authors/lan-xu/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/lan-xu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Yuexin Ma</title>
+      <link>/authors/yuexin-ma/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/yuexin-ma/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Minye Wu</title>
+      <link>/authors/minye-wu/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>/authors/minye-wu/</guid>
       <description></description>
     </item>
     
@@ -33,14 +73,6 @@
       <link>/authors/shi-jin/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/shi-jin/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wei Yang</title>
-      <link>/authors/wei-yang/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/wei-yang/</guid>
       <description></description>
     </item>
     
@@ -65,38 +97,6 @@
       <link>/authors/yu-zhu/</link>
       <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
       <guid>/authors/yu-zhu/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yuwei Li</title>
-      <link>/authors/yuwei-li/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/yuwei-li/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Chi-Han Peng</title>
-      <link>/authors/chi-han-peng/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/chi-han-peng/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Wenguang Ma</title>
-      <link>/authors/wenguang-ma/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/wenguang-ma/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Yu Ji</title>
-      <link>/authors/yu-ji/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/authors/yu-ji/</guid>
       <description></description>
     </item>
     
@@ -281,7 +281,7 @@
       <link>/authors/admin/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>/authors/admin/</guid>
-      <description>&lt;p&gt;Hello, I am a PhD Candiate in &lt;a href=&#34;http://sist.shanghaitech.edu.cn/sist_en/&#34;&gt;School of Information Science and Technology&lt;/a&gt; at &lt;a href=&#34;http://www.shanghaitech.edu.cn/eng/main.htm&#34;&gt;ShanghaiTech University&lt;/a&gt;, China. I am supervised by &lt;a href=&#34;http://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/&#34;&gt;Prof. Jingyi Yu&lt;/a&gt;, affiliated with &lt;a href=&#34;http://vic.shanghaitech.edu.cn/vrvc/en/&#34;&gt;Virtual Reality and Visual Computing Center(VRVC)&lt;/a&gt;. Prior to that, I was supervised by &lt;a href=&#34;http://youyizheng.net/&#34;&gt;Dr. Youyi Zheng&lt;/a&gt; for two years, about computer graphics research.&lt;/p&gt;
+      <description>&lt;p&gt;Hi, I am a PhD Candidate at &lt;a href=&#34;https://english.ucas.ac.cn/&#34;&gt;University of Chinese Academy of Sciences&lt;/a&gt; and &lt;a href=&#34;http://www.shanghaitech.edu.cn/eng/main.htm&#34;&gt;ShanghaiTech University&lt;/a&gt;, China. I am supervised by &lt;a href=&#34;http://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/&#34;&gt;Prof. Jingyi Yu&lt;/a&gt;, affiliated with &lt;a href=&#34;http://vic.shanghaitech.edu.cn/vrvc/en/&#34;&gt;Virtual Reality and Visual Computing Center(VRVC)&lt;/a&gt;. Prior to that, I was supervised by &lt;a href=&#34;http://youyizheng.net/&#34;&gt;Prof. Youyi Zheng&lt;/a&gt; for two years, about computer graphics research.&lt;/p&gt;
 </description>
     </item>
     

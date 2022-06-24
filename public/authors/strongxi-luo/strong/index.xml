@@ -5,7 +5,7 @@
     <link>/authors/strongxi-luo/strong/</link>
       <atom:link href="/authors/strongxi-luo/strong/index.xml" rel="self" type="application/rss+xml" />
     <description>&lt;strong&gt;Xi Luo&lt;/strong&gt;</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Xi Luo&amp;copy2020</copyright><lastBuildDate>Fri, 10 Jan 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>Xi Luo&amp;copy2022</copyright><lastBuildDate>Mon, 20 Jun 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_512x512_fill_lanczos_center_2.png</url>
       <title>&lt;strong&gt;Xi Luo&lt;/strong&gt;</title>
@@ -13,18 +13,34 @@
     </image>
     
     <item>
-      <title>Multiview Deformation for Dynamic Human Reconstruction</title>
-      <link>/publication/multiviewdeformation/</link>
-      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/multiviewdeformation/</guid>
+      <title>CHANDS: A Challenging Hand Gesture Dataset</title>
+      <link>/publication/chands/</link>
+      <pubDate>Mon, 20 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/chands/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>CHANDS: A Challenging Hand Gesture Dataset</title>
-      <link>/publication/chands/</link>
-      <pubDate>Thu, 02 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/publication/chands/</guid>
+      <title>INV: Implicit Neural Representation for Gigapixel Videos</title>
+      <link>/publication/inv/</link>
+      <pubDate>Sat, 04 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/inv/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>NeuralGiga: Neural Giga-Image Representation with Anti-aliasing and Continuous Viewing</title>
+      <link>/publication/neuralgiga/</link>
+      <pubDate>Wed, 04 May 2022 00:00:00 +0000</pubDate>
+      <guid>/publication/neuralgiga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multiview Deformation for Dynamic Human Reconstruction</title>
+      <link>/publication/multiviewdeformation/</link>
+      <pubDate>Fri, 10 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>/publication/multiviewdeformation/</guid>
       <description></description>
     </item>
     
