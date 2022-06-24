@@ -28,7 +28,7 @@ publication_short:
 abstract:   We present a novel multi-view dynamic 3D human reconstruction technique based on model based shape deformation. Our approach specifically targets at handling challenging cases such as textureless appearance, heavy occlusions, and depth order ambiguity that are problematic to stereo-based techniques. We propose to pose match and shape deform a human template model to avoid meshing the point cloud. To robustly match the template pose with image observations, we present a novel Graph Convolutional Networks (GCN) to gradually filter out erroneous views and use the optimal subset for recovering the 3D skeleton and warping the template shape. Next, We use the warped human template to guide the cross-view consistent semantic segmentation. We set out to deform the warped 3D model so that the silhouette of the deformed model best matches the target in respective views while maintaining semantic consistency. Comprehensive experiments on publicly available and our newly generated complex motion datasets show our approach significantly outperforms the state-of-the-art on sparse cameras, textureless regions (e.g., under black clothing), complex motions, etc.
 
 # Summary. An optional shortened abstract.
-summary: \[In submission]
+summary: \[Arxiv]
 
 tags:
 featured: true

@@ -1,11 +1,12 @@
 ---
-title: "CHANDS: A Challenging Hand Gesture Dataset"
+title: "INV: Implicit Neural Representation for Gigapixel Videos"
 authors:
 - <strong>Xi Luo</strong>
 - Yuwei Li
-- Wei Yang
+- Yuexin Ma
+- Lan Xu
 - Jingyi Yu
-date: "2022-06-20"
+date: "2022-06-04"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -21,7 +22,7 @@ publication_types: ["3"]
 publication: 
 publication_short: 
 
-abstract:   Existing hand datasets have focused on only one of the following aspects -- low level imagery data suitable for gesture recognition, middle level pose/skeleton data applicable to high precision human-computer interactions, and high level 3D geometry for producing virtual avatars. We present the first dataset called Challenging Hands or CHANDS dataset that is composed of multi-view images, 3D skeleton, and 3D geometry corresponding to unprecedentedly difficult gestures performed by real hands. Specifically, we construct a multi-view dome to acquire the multi-view images and conduct initial 3D reconstructions and use a hand tracker to separately capture the skeleton. We then present a robust technique for aligning the skeleton to the geometry as well as correcting errors in the 3D geometry. Although our focus is on data generation, we also evaluate state-of-theart hand models on point set registration and single image hand shape estimation, etc.
+abstract:   
 
 # Summary. An optional shortened abstract.
 summary: \[In submission]

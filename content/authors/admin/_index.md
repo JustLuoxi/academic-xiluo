@@ -30,7 +30,10 @@ education:
   courses:
   - course: PhD in Computer Science
     institution: ShanghaiTech University
-    year: 2016 - present
+    year: 2018 - present
+  - course: Master in Computer Science
+    institution: ShanghaiTech University
+    year: 2016 - 2018
   - course: BSc in Communication Engineering
     institution: Shandong University
     year: 2012 - 2016
@@ -56,7 +59,7 @@ social:
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 - icon: cv
   icon_pack: ai
-  link: files/CV_XiLuo_s.pdf
+  link: files/CV_XiLuo.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "luoxi@shanghaitech.edu.cn"
@@ -68,4 +71,4 @@ user_groups:
 - Visitors
 ---
 
-Hi, I am a PhD Candidate in [School of Information Science and Technology](http://sist.shanghaitech.edu.cn/sist_en/) at [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/main.htm), China. I am supervised by [Prof. Jingyi Yu](http://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/), affiliated with [Virtual Reality and Visual Computing Center(VRVC)](http://vic.shanghaitech.edu.cn/vrvc/en/). Prior to that, I was supervised by [Prof. Youyi Zheng](http://youyizheng.net/) for two years, about computer graphics research. 
+Hi, I am a PhD Candidate at [University of Chinese Academy of Sciences](https://english.ucas.ac.cn/) and [ShanghaiTech University](http://www.shanghaitech.edu.cn/eng/main.htm), China. I am supervised by [Prof. Jingyi Yu](http://vic.shanghaitech.edu.cn/vrvc/en/people/jingyi-yu/), affiliated with [Virtual Reality and Visual Computing Center(VRVC)](http://vic.shanghaitech.edu.cn/vrvc/en/). Prior to that, I was supervised by [Prof. Youyi Zheng](http://youyizheng.net/) for two years, about computer graphics research. 

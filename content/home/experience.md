@@ -22,7 +22,7 @@ date_format = "Jan 2006"
   company = "ShanghaiTech University"
   company_url = "http://www.shanghaitech.edu.cn/eng/"
   location = "Shanghai"
-  date_start = "2016-09-01"
+  date_start = "2018-09-01"
   date_end = ""
   description = ""
 
@@ -34,6 +34,15 @@ date_format = "Jan 2006"
   location = "Shanghai"
   date_start = "2017-07-01"
   date_end = "2019-10-01"
+  description = ""
+
+[[experience]]
+  title = "Master Student"
+  company = "ShanghaiTech University"
+  company_url = "http://www.shanghaitech.edu.cn/eng/"
+  location = "Shanghai"
+  date_start = "2016-09-01"
+  date_end = "2018-06-30"
   description = ""
 
 [[experience]]
